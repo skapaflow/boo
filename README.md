@@ -4,4 +4,4 @@ A simple and small Version Control System for antisocial programmers.
 
 ## License
 
-The code of Boo is licensed under [MIT](https://github.com/skapaflow/MyDDB/blob/master/LICENSE).
+The code of Boo is licensed under [MIT](https://github.com/skapaflow/boo/blob/main/LICENSE).
